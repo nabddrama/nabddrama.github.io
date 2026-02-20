@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Allow: /videos/
+Allow: /images/
+
+Disallow: /README.md
+Disallow: /LICENSE
+Disallow: /.git/
+Disallow: /.github/
+
+Sitemap: https://nabddrama.github.io/sitemap.xml
